@@ -2,7 +2,7 @@
 
 # Install Puppet Enterprise on Linux v 0.00001
 #
-# martinm@rsysadmin.com
+# martin@mielke.com
 #
 
 # required RPMs
